@@ -1,0 +1,27 @@
+Kebijakan Privasi Soft Pomodoro
+Terakhir Diperbarui: 29 Maret 2026
+Selamat datang di Soft Pomodoro. Kami berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengelola informasi Anda saat Anda menggunakan aplikasi timer Pomodoro kami.
+1. Informasi yang Kami Kumpulkan
+Aplikasi ini dirancang untuk menghargai privasi Anda.
+Data Pribadi: Kami tidak mengumpulkan informasi identitas pribadi seperti nama, alamat email, atau nomor telepon.
+Data Penggunaan: Kami mungkin mengumpulkan data anonim mengenai bagaimana aplikasi digunakan (misalnya, durasi sesi fokus) untuk meningkatkan fungsi aplikasi.
+Izin Perangkat: Kami mungkin meminta izin tertentu (seperti notifikasi) hanya untuk menjalankan fitur inti aplikasi (pengingat waktu istirahat).
+2. Penggunaan Data
+Data yang dikumpulkan hanya digunakan untuk:
+Menyediakan fungsi dasar timer Pomodoro.
+Menyimpan preferensi pengaturan lokal di perangkat Anda.
+Menganalisis performa aplikasi secara anonim 
+3. Layanan Pihak Ketiga
+Aplikasi kami mungkin menggunakan layanan pihak ketiga yang dapat mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda:
+Kami tidak menggunakan layanan pihak ketiga yang mengumpulkan data pengguna.
+4. Keamanan
+Kami menghargai kepercayaan Anda dalam memberikan informasi kepada kami, namun ingatlah bahwa tidak ada metode transmisi melalui internet atau metode penyimpanan elektronik yang 100% aman dan andal.
+5. Privasi Anak
+Aplikasi ini bersifat universal dan dapat digunakan oleh siapa saja. Karena kami tidak mengumpulkan data pribadi sama sekali, tidak ada risiko pengumpulan informasi identitas dari pengguna, termasuk anak-anak di bawah umur.
+6. Perubahan pada Kebijakan Privasi Ini
+Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Anda disarankan untuk meninjau halaman ini secara berkala untuk setiap perubahan.
+7. Hubungi Kami
+Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami di:
+Email: meysa.developer@gmail.com
+
+
