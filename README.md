@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+<h1 align="center">👔 Soft Pomodoro</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <strong>Master your productivity and manage time with executive precision.</strong>
+</p>
 
-## Get started
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind" />
+</p>
 
-1. Install dependencies
+## ✨ Tentang Soft Pomodoro
 
-   ```bash
-   npm install
-   ```
+**Soft Pomodoro** adalah aplikasi _mobile_ yang dirancang untuk membantu Anda mengelola fokus dan produktivitas dengan pendekatan yang lebih tenang. Jika Anda sering merasa kewalahan atau kehilangan jejak waktu saat bekerja atau belajar, Soft Pomodoro hadir untuk memberikan struktur yang Anda butuhkan tanpa menambah beban stres.
 
-2. Start the app
+## 🕒 Mengapa Menggunakan Metode Pomodoro?
 
-   ```bash
-   npx expo start
-   ```
+Diciptakan oleh **Francesco Cirillo** pada akhir 1980-an, Teknik Pomodoro adalah sistem manajemen waktu yang terbukti secara sains dapat meningkatkan konsentrasi:
 
-In the output, you'll find options to open the app in a
+- **Fokus Intens:** Interval kerja selama 25 menit (disebut satu _Pomodoro_).
+- **Istirahat Pendek:** Jeda 5 menit untuk menyegarkan pikiran.
+- **Istirahat Panjang:** Jeda 15–30 menit setelah menyelesaikan 4 siklus kerja.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Metode ini sangat efektif untuk menjaga kesehatan mental, mencegah kelelahan (_burnout_), dan memastikan produktivitas tetap konsisten sepanjang hari.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🚀 Fitur Utama
 
-## Get a fresh project
+- **Intuitive Timer:** Antarmuka yang bersih untuk sesi fokus maksimal tanpa distraksi.
+- **Progress Tracking:** Pantau siklus kerja Anda dengan mudah dalam satu tampilan.
+- **Performance Built:** Aplikasi ringan, cepat, dan responsif untuk penggunaan harian.
+- **Modern UI:** Desain yang nyaman di mata dengan navigasi yang simpel.
 
-When you're ready, run:
+## 📲 Download Sekarang
 
-```bash
-npm run reset-project
-```
+Tingkatkan efisiensi kerja Anda hari ini. Cari **"Soft Pomodoro"** di Google Play Store atau klik tautan di bawah ini:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+> [!TIP]
+> **[Download on Google Play Store](ISI_LINK_PLAYSTORE_DISINI)**
